@@ -1,0 +1,1449 @@
+{
+  "turn": 0,
+  "names": {
+    "0": "mom",
+    "1": "dad",
+    "2": "dealer"
+  },
+  "deck": [
+    {
+      "rank": "Queen",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "7",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "10",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Jack",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "King",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "7",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "King",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Jack",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "6",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "5",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "4",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "5",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "10",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "King",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "6",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "10",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "10",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "7",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Jack",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "7",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "5",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "6",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "6",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "King",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "6",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "7",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "5",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "King",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "King",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "5",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "10",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "5",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Jack",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "6",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "King",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "4",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "4",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "4",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "5",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "4",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "King",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "5",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "7",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "10",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "4",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Jack",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "10",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "7",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Jack",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Jack",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "10",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "6",
+      "suit": "Clubs",
+      "special": false
+    }
+  ],
+  "player_cards": {
+    "0": [
+      {
+        "rank": "4",
+        "suit": "Diamonds",
+        "special": false
+      },
+      {
+        "rank": "6",
+        "suit": "Diamonds",
+        "special": false
+      }
+    ],
+    "1": [
+      {
+        "rank": "4",
+        "suit": "Spades",
+        "special": false
+      },
+      {
+        "rank": "9",
+        "suit": "Clubs",
+        "special": false
+      }
+    ],
+    "2": [
+      {
+        "rank": "7",
+        "suit": "Hearts",
+        "special": false
+      },
+      {
+        "rank": "Jack",
+        "suit": "Hearts",
+        "special": false
+      }
+    ]
+  },
+  "difficulty": "Special",
+  "score": {
+    "2": 0,
+    "1": 0,
+    "0": 0
+  },
+  "sum": {
+    "0": 10,
+    "1": 13,
+    "2": 17
+  },
+  "special_deck": [
+    {
+      "rank": "10",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Force",
+      "suit": "Hit",
+      "special": true
+    },
+    {
+      "rank": "9",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Nope",
+      "suit": "Kyrylo",
+      "special": true
+    },
+    {
+      "rank": "5",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Nope",
+      "suit": "Kyrylo",
+      "special": true
+    },
+    {
+      "rank": "Queen",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "7",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "5",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Foresee",
+      "suit": "Future",
+      "special": true
+    },
+    {
+      "rank": "2",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Foresee",
+      "suit": "Future",
+      "special": true
+    },
+    {
+      "rank": "Steal",
+      "suit": "Kenneth",
+      "special": true
+    },
+    {
+      "rank": "Jack",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Jack",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "King",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Jack",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Switch",
+      "suit": "Hands",
+      "special": true
+    },
+    {
+      "rank": "King",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Steal",
+      "suit": "Kenneth",
+      "special": true
+    },
+    {
+      "rank": "2",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Foresee",
+      "suit": "Future",
+      "special": true
+    },
+    {
+      "rank": "10",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Steal",
+      "suit": "Kenneth",
+      "special": true
+    },
+    {
+      "rank": "King",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Jack",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "6",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "6",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "4",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "6",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Jack",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Switch",
+      "suit": "Hands",
+      "special": true
+    },
+    {
+      "rank": "King",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "4",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "5",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "7",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "7",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Force",
+      "suit": "Hit",
+      "special": true
+    },
+    {
+      "rank": "Foresee",
+      "suit": "Future",
+      "special": true
+    },
+    {
+      "rank": "5",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Shuffle",
+      "suit": "Mystery",
+      "special": true
+    },
+    {
+      "rank": "Foresee",
+      "suit": "Future",
+      "special": true
+    },
+    {
+      "rank": "3",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "6",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Foresee",
+      "suit": "Future",
+      "special": true
+    },
+    {
+      "rank": "6",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Shuffle",
+      "suit": "Mystery",
+      "special": true
+    },
+    {
+      "rank": "Ace",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "King",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "4",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Foresee",
+      "suit": "Future",
+      "special": true
+    },
+    {
+      "rank": "Steal",
+      "suit": "Kenneth",
+      "special": true
+    },
+    {
+      "rank": "10",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "6",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "4",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Nope",
+      "suit": "Kyrylo",
+      "special": true
+    },
+    {
+      "rank": "7",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "King",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "King",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "5",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "7",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Shuffle",
+      "suit": "Mystery",
+      "special": true
+    },
+    {
+      "rank": "10",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Bribe",
+      "suit": "Wine",
+      "special": true
+    },
+    {
+      "rank": "8",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "5",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Switch",
+      "suit": "Hands",
+      "special": true
+    },
+    {
+      "rank": "4",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "6",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Steal",
+      "suit": "Kenneth",
+      "special": true
+    },
+    {
+      "rank": "Force",
+      "suit": "Hit",
+      "special": true
+    },
+    {
+      "rank": "8",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Jack",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Nope",
+      "suit": "Kyrylo",
+      "special": true
+    },
+    {
+      "rank": "10",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Force",
+      "suit": "Hit",
+      "special": true
+    },
+    {
+      "rank": "Jack",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Switch",
+      "suit": "Hands",
+      "special": true
+    },
+    {
+      "rank": "7",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Steal",
+      "suit": "Kenneth",
+      "special": true
+    },
+    {
+      "rank": "10",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "4",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Queen",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "4",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "8",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Steal",
+      "suit": "Kenneth",
+      "special": true
+    },
+    {
+      "rank": "10",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "7",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Force",
+      "suit": "Hit",
+      "special": true
+    },
+    {
+      "rank": "Bribe",
+      "suit": "Wine",
+      "special": true
+    },
+    {
+      "rank": "Jack",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "4",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Shuffle",
+      "suit": "Mystery",
+      "special": true
+    },
+    {
+      "rank": "5",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "9",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "Nope",
+      "suit": "Kyrylo",
+      "special": true
+    },
+    {
+      "rank": "Force",
+      "suit": "Hit",
+      "special": true
+    },
+    {
+      "rank": "Nope",
+      "suit": "Kyrylo",
+      "special": true
+    },
+    {
+      "rank": "Switch",
+      "suit": "Hands",
+      "special": true
+    },
+    {
+      "rank": "6",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "3",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Foresee",
+      "suit": "Future",
+      "special": true
+    },
+    {
+      "rank": "King",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Ace",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "Steal",
+      "suit": "Kenneth",
+      "special": true
+    },
+    {
+      "rank": "3",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "7",
+      "suit": "Diamonds",
+      "special": false
+    },
+    {
+      "rank": "Switch",
+      "suit": "Hands",
+      "special": true
+    },
+    {
+      "rank": "10",
+      "suit": "Clubs",
+      "special": false
+    },
+    {
+      "rank": "5",
+      "suit": "Hearts",
+      "special": false
+    },
+    {
+      "rank": "2",
+      "suit": "Spades",
+      "special": false
+    },
+    {
+      "rank": "Bribe",
+      "suit": "Wine",
+      "special": true
+    },
+    {
+      "rank": "Foresee",
+      "suit": "Future",
+      "special": true
+    },
+    {
+      "rank": "Shuffle",
+      "suit": "Mystery",
+      "special": true
+    },
+    {
+      "rank": "Steal",
+      "suit": "Kenneth",
+      "special": true
+    }
+  ],
+  "special_hands": {
+    "2": [
+      {
+        "rank": "Bribe",
+        "suit": "Wine",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      },
+      {
+        "rank": "Nope",
+        "suit": "Kyrylo",
+        "special": true
+      }
+    ],
+    "1": [
+      {
+        "rank": "Bribe",
+        "suit": "Wine",
+        "special": true
+      },
+      {
+        "rank": "Force",
+        "suit": "Hit",
+        "special": true
+      },
+      {
+        "rank": "Foresee",
+        "suit": "Future",
+        "special": true
+      },
+      {
+        "rank": "Force",
+        "suit": "Hit",
+        "special": true
+      },
+      {
+        "rank": "Shuffle",
+        "suit": "Mystery",
+        "special": true
+      },
+      {
+        "rank": "Force",
+        "suit": "Hit",
+        "special": true
+      },
+      {
+        "rank": "Force",
+        "suit": "Hit",
+        "special": true
+      },
+      {
+        "rank": "Force",
+        "suit": "Hit",
+        "special": true
+      },
+      {
+        "rank": "Force",
+        "suit": "Hit",
+        "special": true
+      }
+    ],
+    "0": [
+      {
+        "rank": "Bribe",
+        "suit": "Wine",
+        "special": true
+      },
+      {
+        "rank": "Foresee",
+        "suit": "Future",
+        "special": true
+      },
+      {
+        "rank": "Shuffle",
+        "suit": "Mystery",
+        "special": true
+      },
+      {
+        "rank": "Force",
+        "suit": "Hit",
+        "special": true
+      },
+      {
+        "rank": "Force",
+        "suit": "Hit",
+        "special": true
+      }
+    ]
+  },
+  "bomb_loc": {
+    "-1": 3,
+    "-1": 73,
+    "-1": 88
+  }
+}
